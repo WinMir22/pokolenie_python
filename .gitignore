@@ -1,0 +1,10 @@
+.env
+.venv/
+.mypy_cache/
+.ruff_cache/
+.idea
+__pycache__/
+input.txt
+output.txt
+code.py
+result.txt
